@@ -8,20 +8,20 @@ Your task is to build a grid of cards for a company's products. Here are the req
 3. Each product should contain a header element that, itself, contains an h2 element where the product's title will be written.
 4. Each product should have three sections.
 5. The first section should contain three child block elements.
-   i. The first element contains the product image.
-   ii. The second element contains the product description.
-   iii. The third element contains the product availability (e.g. "Available" or "Not Available")
+   1. The first element contains the product image.
+   2. The second element contains the product description.
+   3. The third element contains the product availability (e.g. "Available" or "Not Available")
 6. The second section contains product specifications.
-   i. This section should have a header containing the word "Specifications"
-   ii. This section should contain two block elements
-   iii. The first block element specifies the size.
-   iv. The second block element specifies the weight.
-   v. This section should contain a footer.
-   vi. The footer contains text stating when the product specifications become invalid.
+   1. This section should have a header containing the word "Specifications"
+   2. This section should contain two block elements
+   3. The first block element specifies the size.
+   4. The second block element specifies the weight.
+   5. This section should contain a footer.
+   6. The footer contains text stating when the product specifications become invalid.
 7. The third section contains the product pricing.
-   i. This section should contain a header.
-   ii. This section should contain three block elements.
-   iii. Each block element contains information about the price for different quantities.
+   1. This section should contain a header.
+   2. This section should contain three block elements.
+   3. Each block element contains information about the price for different quantities.
 
 ## Additional style requirements
 1. The entire card has a solid 1px border that is lightblue.
